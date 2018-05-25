@@ -1,8 +1,4 @@
 _site/
-_posts/
-_config.yml
 Gemfile
 Gemfile.lock
-index.md
-about.md
 .sass-cache/
